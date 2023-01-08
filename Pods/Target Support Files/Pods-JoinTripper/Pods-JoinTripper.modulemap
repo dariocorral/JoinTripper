@@ -1,0 +1,6 @@
+framework module Pods_JoinTripper {
+  umbrella header "Pods-JoinTripper-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module TJBioAuthentication {
+  umbrella header "TJBioAuthentication-umbrella.h"
+
+  export *
+  module * { export * }
+}
